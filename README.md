@@ -7,7 +7,7 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 Article by @Sara Soueidan  
 http://tympanus.net/codrops/css_reference/flexbox/  
 
-Article by Dimitar Stojanov  
+Article by @Dimitar Stojanov  
 https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
 
 Learning material for flexbox(20 videos)  
