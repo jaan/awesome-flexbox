@@ -12,3 +12,6 @@ http://flexbox.io/
 
 Solved by Flexbox by @philipwalton  
 http://philipwalton.github.io/solved-by-flexbox/  
+
+W3schools  
+http://www.w3schools.com/css/css3_flexbox.asp  
